@@ -1,7 +1,7 @@
 # accessibilityCV
 
 Computer vision project to recognize the accessibility of places.
-[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/accessibilityCV/blob/main/README.md)
+[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://github/accessibilityCV/blob/main/README.md)
 
 
 ## Motivation
